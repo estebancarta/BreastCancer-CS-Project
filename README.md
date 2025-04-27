@@ -23,7 +23,7 @@ The workflow includes exploratory data analysis (EDA), class imbalance handling,
 4. Execute all cells sequentially to fully reproduce the project.
 
 ## Repository Link
-(Add your GitHub repository link here once created)
+https://github.com/estebancarta/BreastCancer-CS-Project/tree/main
 
 ## Contact
 For any questions, please contact: e_cartagenova10@hotmail.com.
